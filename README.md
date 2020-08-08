@@ -1,2 +1,2 @@
 # Coursera_Capstone
-capstone project
+Data Science Capstone assignment 1
